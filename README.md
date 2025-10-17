@@ -86,8 +86,7 @@ This ensures the owner can locate and assist their pet quickly in emergency or d
 
 | Screenshot | Description |
 |-------------|-------------|
-| ![SMS Alert 1](images/sms_alert_1.jpg) | SMS received on owner's phone showing GPS data |
-| ![SMS Alert 2](images/sms_alert_2.jpg) | SMS with Google Maps link for quick location tracking |
+| ![SMS Alert 2](images/scmaps.jpg) | SMS with Google Maps link for quick location tracking |
 
 ---
 
@@ -101,14 +100,7 @@ This ensures the owner can locate and assist their pet quickly in emergency or d
 
 ---
 
-### 🔌 Circuit Diagram
-> Add your circuit layout image here
 
-| Diagram | Description |
-|----------|-------------|
-| ![Circuit Diagram](images/circuit_diagram.jpg) | Pin connection layout for ESP32 + GSM + GPS + Sound Sensor |
-
----
 
 ## 🚀 Future Enhancements
 
@@ -126,11 +118,7 @@ This ensures the owner can locate and assist their pet quickly in emergency or d
 
 ---
 
-## 📄 License
 
-Licensed under the **MIT License** — free to use, modify, and share with credit.
-
----
 
 ## 💖 Acknowledgment
 
