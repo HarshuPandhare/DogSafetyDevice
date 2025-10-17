@@ -96,8 +96,8 @@ This ensures the owner can locate and assist their pet quickly in emergency or d
 
 | Image | Description |
 |--------|-------------|
-| ![Belt Hardware Setup](images/belt_setup.jpg) | Modules attached to the animal safety belt |
-| ![Modules Closeup](images/module_closeup.jpg) | Close view of ESP32, GPS, and GSM module connections |
+| ![Belt Hardware Setup](images/hardware1.jpg) | Modules attached to the animal safety belt |
+| ![Modules Closeup](images/hardware2.jpg) | Close view of ESP32, GPS, and GSM module connections |
 
 ---
 
