@@ -91,7 +91,7 @@ This ensures the owner can locate and assist their pet quickly in emergency or d
 ---
 
 ### ⚙️ Hardware Setup
-> Add photos of your actual hardware setup
+> 
 
 | Image | Description |
 |--------|-------------|
