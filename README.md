@@ -82,7 +82,7 @@ This ensures the owner can locate and assist their pet quickly in emergency or d
 ## 📸 Screenshots & Demo
 
 ### 🐕 SMS Alert Received
-> Add your screenshots below (rename files before uploading)
+> 
 
 | Screenshot | Description |
 |-------------|-------------|
